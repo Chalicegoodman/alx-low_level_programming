@@ -3,7 +3,10 @@
 #include <stdio.h>
 /* more headers goes here */
 
-/* betty style doc for function main goes there */
+/*
+ * main - main function
+ * Return: return void
+ */
 int main(void)
 {
 	int n;
