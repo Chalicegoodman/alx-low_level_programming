@@ -1,0 +1,12 @@
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
+int main()
+{
+	char ch = 'Charles';
+	cc = tolower (ch);
+
+	Putchar(cc:);
+	
+	return (0);
+}
