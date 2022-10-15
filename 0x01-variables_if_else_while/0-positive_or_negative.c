@@ -1,11 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes here */
 
 /*
- * main - main function
- * Return: return void
+ * main - print number if function is zero, positive, or negative
+ * Return: Always (Success)
  */
 int main(void)
 {
