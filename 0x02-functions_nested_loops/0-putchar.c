@@ -1,12 +1,22 @@
 #include <stdio.h>
 #include <main.h>
 #include <string.h>
-/*printing a function with putchar
+/**
+ *main -  function is meant to print putchar, folloed by new line
  *
- *
+ *Return: Always return 0.
  */
-main () {
-	char a = "putchar";
-	putchar (a);
-	return 0;
+int main(void)
+{
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
+
+	return (0);
 }
